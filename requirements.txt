@@ -3,3 +3,4 @@ pip==19.0.3
 pytest==5.3.5
 django==3.0.3
 numpy==1.22.2
+pluggy==0.13.1
